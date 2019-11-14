@@ -2,3 +2,6 @@
 	path = Catch2
 	url = https://github.com/catchorg/Catch2.git
 	branch = tags/v2.10.2
+[submodule "godot-cpp"]
+	path = godot-cpp
+	url = https://github.com/GodotNativeTools/godot-cpp
